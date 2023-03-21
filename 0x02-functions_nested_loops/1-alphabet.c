@@ -3,7 +3,7 @@
  * print_alphabet - prints the alpahbet in lowercase.
  * Return: Always 0 (success)
  */
-void print_alpahbet(void)
+void print_alpabet(void)
 {
 	int i;
 
