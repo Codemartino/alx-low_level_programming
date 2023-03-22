@@ -1,0 +1,9 @@
+n.c:10:2: error: implicit declaration of function ‘print_alphabet_x10’; did you mean ‘print_alphabet’? [-Werror=implicit-function-declaration]
+   10 |  print_alphabet_x10();
+      |  ^~~~~~~~~~~~~~~~~~
+      |  print_alphabet
+cc1: all warnings being treated as errorn.c:10:2: error: implicit declaration of function ‘print_alphabet_x10’; did you mean ‘print_alphabet’? [-Werror=implicit-function-declaration]
+   10 |  print_alphabet_x10();
+      |  ^~~~~~~~~~~~~~~~~~
+      |  print_alphabet
+cc1: all warnings being treated as errorss
